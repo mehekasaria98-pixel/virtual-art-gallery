@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+coverage/
+.vercel/
+.env
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+npm-debug.log*
+.DS_Store
+
+# Local editor / assistant settings
+.claude/
