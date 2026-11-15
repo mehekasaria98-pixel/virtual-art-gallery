@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "version": "2.1",
+    "_links": {
+      "self": {
+        "href": "https://api.vam.ac.uk/v2/object/O1277507"
+      },
+      "collection_page": {
+        "href": "https://collections.vam.ac.uk/item/O1277507/"
+      }
+    },
+    "images": {
+      "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2013GD6879/full/!100,100/0/default.jpg",
+      "_iiif_image": "https://framemark.vam.ac.uk/collections/2013GD6879/",
+      "_alt_iiif_image": [],
+      "imageResolution": "high",
+      "_images_meta": [
+        {
+          "assetRef": "2013GD6879",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ]
+    },
+    "see_also": {
+      "_iiif_pres": "https://iiif.vam.ac.uk/collections/O1277507/manifest.json",
+      "_alt_iiif_pres": []
+    }
+  },
+  "record": {
+    "systemNumber": "O1277507",
+    "accessionNumber": "IM.16:2-1913",
+    "objectType": "Painting",
+    "titles": [],
+    "summaryDescription": "",
+    "physicalDescription": "Painting, opaque watercolour and gold on paper, calligraphy panel. ",
+    "artistMakerPerson": [],
+    "artistMakerOrganisations": [],
+    "artistMakerPeople": [],
+    "materials": [
+      {
+        "text": "paint",
+        "id": "AAT15029"
+      },
+      {
+        "text": "opaque watercolour",
+        "id": "x35013"
+      },
+      {
+        "text": "paper",
+        "id": "AAT14109"
+      },
+      {
+        "text": "gold",
+        "id": "AAT11021"
+      }
+    ],
+    "techniques": [
+      {
+        "text": "painted",
+        "id": "AAT54216"
+      }
+    ],
+    "materialsAndTechniques": "Painted in opaque watercolour and gold on paper",
+    "categories": [
+      {
+        "text": "Paintings",
+        "id": "THES48917"
+      },
+      {
+        "text": "Calligraphy",
+        "id": "THES254199"
+      }
+    ],
+    "styles": [
+      {
+        "text": "Mughal",
+        "id": "AAT18939"
+      }
+    ],
+    "collectionCode": {
+      "text": "SSEA",
+      "id": "THES48598"
+    },
+    "images": [
+      "2013GD6879"
+    ],
+    "imageResolution": "high",
+    "galleryLocations": [
+      {
+        "current": {
+          "text": "005",
+          "id": "THES403717"
+        },
+        "free": "",
+        "case": "",
+        "shelf": "",
+        "box": ""
+      }
+    ],
+    "partTypes": [
+      [
+        {
+          "text": "painting",
+          "id": "AAT33618"
+        }
+      ]
+    ],
+    "contentWarnings": [
+      {
+        "apprise": "",
+        "note": ""
+      }
+    ],
+    "placesOfOrigin": [
+      {
+        "place": {
+          "text": "India",
+          "id": "x29790"
+        },
+        "association": {
+          "text": "made",
+          "id": "x28654"
+        },
+        "note": "probably: Mughal"
+      }
+    ],
+    "productionDates": [
+      {
+        "date": {
+          "text": "ca. 1700",
+          "earliest": "1695-01-01",
+          "latest": "1704-12-31"
+        },
+        "association": {
+          "text": "made",
+          "id": "x28654"
+        },
+        "note": ""
+      }
+    ],
+    "associatedObjects": [
+      {
+        "object": {
+          "text": "IM.16-1913",
+          "id": "O405548"
+        },
+        "association": "Verso"
+      }
+    ],
+    "creditLine": "Purchased from Arthur Churchill, Esq.",
+    "dimensions": [
+      {
+        "dimension": "Height",
+        "value": "420",
+        "unit": "mm",
+        "qualifier": "page",
+        "date": {
+          "text": "24/04/2013",
+          "earliest": "2013-04-24",
+          "latest": "2013-04-24"
+        },
+        "part": "",
+        "note": ""
+      },
+      {
+        "dimension": "Width",
+        "value": "270",
+        "unit": "mm",
+        "qualifier": "page",
+        "date": {
+          "text": "24/04/2013",
+          "earliest": "2013-04-24",
+          "latest": "2013-04-24"
+        },
+        "part": "",
+        "note": ""
+      }
+    ],
+    "dimensionsNote": "",
+    "marksAndInscriptions": [],
+    "objectHistory": "Bought from Mr Arthur Churchill, with other paintings (IM.7 to 16-1913) for £141. RP 1913/1031;\r\n\r\nPurchased from Arthur Churchill, Esq., 1,Selwood Terrace, South Kensington, S.W. This acquisition information reflects that found in the Museum records (Asia Department registers and/or Central Inventory) as part of a 2023 provenance research project.\r\n\r\nRP 1913-947M",
+    "historicalContext": "",
+    "briefDescription": "Painting, calligraphy panel, in opaque watercolour and gold on paper, Mughal, ca. 1700",
+    "bibliographicReferences": [],
+    "production": "",
+    "productionType": {
+      "text": "",
+      "id": ""
+    },
+    "contentDescription": "Calligraphy panel. ",
+    "contentPlaces": [],
+    "associatedPlaces": [],
+    "contentPerson": [],
+    "associatedPerson": [],
+    "contentOrganisations": [],
+    "associatedOrganisations": [],
+    "contentPeople": [],
+    "associatedPeople": [],
+    "contentEvents": [],
+    "associatedEvents": [],
+    "contentOthers": [
+      {
+        "text": "calligraphy",
+        "id": "AAT53162"
+      }
+    ],
+    "contentConcepts": [],
+    "contentLiteraryRefs": [],
+    "galleryLabels": [],
+    "partNumbers": [
+      "IM.16:2-1913"
+    ],
+    "accessionNumberNum": "16",
+    "accessionNumberPrefix": "IM",
+    "accessionYear": 1913,
+    "otherNumbers": [],
+    "copyNumber": "",
+    "aspects": [
+      "WHOLE"
+    ],
+    "assets": [],
+    "recordModificationDate": "2025-04-09",
+    "recordCreationDate": "2013-12-24",
+    "availableToBook": true
+  }
+}

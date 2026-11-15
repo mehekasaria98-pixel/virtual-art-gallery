@@ -1,0 +1,122 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "creatorLabel",
+      "inception",
+      "image",
+      "countryLabel",
+      "movement",
+      "pd"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7732151"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1851-01-01T00:00:00Z"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Martin%20-%20The%20Great%20Day%20of%20His%20Wrath%20-%20Google%20Art%20Project.jpg"
+        },
+        "movement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37068"
+        },
+        "pd": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19652"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The end of the world"
+        },
+        "creatorLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John Martin"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7733769"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1800-01-01T00:00:00Z"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20The%20Fifth%20Plague%20of%20Egypt%20-%20Google%20Art%20Project.jpg"
+        },
+        "movement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37068"
+        },
+        "pd": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19652"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Fifth Plague of Egypt"
+        },
+        "creatorLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "J. M. W. Turner"
+        },
+        "countryLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "United Kingdom"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8206122"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1787-01-01T00:00:00Z"
+        },
+        "image": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Asalto%20al%20coche.jpg"
+        },
+        "movement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37068"
+        },
+        "pd": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19652"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Attack on a Coach"
+        },
+        "creatorLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Francisco Goya"
+        }
+      }
+    ]
+  }
+}

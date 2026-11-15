@@ -1,0 +1,106 @@
+{
+  "objectID": 45352,
+  "isHighlight": false,
+  "accessionNumber": "1975.268.97",
+  "accessionYear": "1975",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP221130.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP221130.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/as/original/DP221126.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 11907,
+      "role": "Artist",
+      "name": "Yosa Buson",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121069",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q31523",
+      "gender": ""
+    }
+  ],
+  "department": "Asian Art",
+  "objectName": "Hanging scroll",
+  "title": "Autumn Landscape",
+  "culture": "Japan",
+  "period": "Edo period (1615–1868)",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Yosa Buson",
+  "artistDisplayBio": "Japanese, 1716–1783",
+  "artistSuffix": "",
+  "artistAlphaSort": "Yosa Buson",
+  "artistNationality": "Japanese",
+  "artistBeginDate": "1716",
+  "artistEndDate": "1783",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q31523",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500121069",
+  "objectDate": "ca. 1780",
+  "objectBeginDate": 1770,
+  "objectEndDate": 1783,
+  "medium": "Hanging scroll, color on satin",
+  "dimensions": "14 1/4 in. × 10 in. (36.2 × 25.4 cm)\r\nOverall with mounting: 47 3/4 × 15 in. (121.3 × 38.1 cm)\r\nOverall with knobs: 47 3/4 × 17 1/8 in. (121.3 × 43.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 36.195072,
+        "Width": 25.400051
+      }
+    },
+    {
+      "elementName": "Overall with knobs",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 121.28524,
+        "Width": 43.497585
+      }
+    },
+    {
+      "elementName": "Overall with mounting",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 121.28524,
+        "Width": 38.100075
+      }
+    }
+  ],
+  "creditLine": "The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-02-28T04:58:01.027Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/45352",
+  "tags": [
+    {
+      "term": "Mountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+    },
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78848623",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

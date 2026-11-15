@@ -1,0 +1,480 @@
+{
+  "info": {
+    "total": 37,
+    "parameters": {
+      "skip": 0,
+      "limit": 2,
+      "cc0": "1",
+      "culture": "Nigeria",
+      "has_image": "1",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,collection,gallery,classification_type,department"
+    }
+  },
+  "data": [
+    {
+      "id": 155510,
+      "accession_number": "1990.23",
+      "share_license_status": "CC0",
+      "tombstone": "Headdress, early 1900s. Africa, West Africa, Nigeria, Ejagham-style maker. Wood, rawhide, cane, paint, bone, natural fiber, and metal; overall: 67.3 x 43.2 x 43.2 cm (26 1/2 x 17 x 17 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1990.23",
+      "current_location": "108A African",
+      "title": "Headdress",
+      "creation_date": "early 1900s",
+      "creation_date_earliest": 1900,
+      "creation_date_latest": 1925,
+      "artists_tags": [],
+      "culture": [
+        "Africa, West Africa, Nigeria, Ejagham-style maker"
+      ],
+      "technique": "Wood, rawhide, cane, paint, bone, natural fiber, and metal",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Mask",
+      "measurements": "Overall: 67.3 x 43.2 x 43.2 cm (26 1/2 x 17 x 17 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.673,
+          "height_inch": 26,
+          "height_inch_fraction": 0.5,
+          "width": 0.432,
+          "width_inch": 17,
+          "width_inch_fraction": 0,
+          "depth": 0.432,
+          "depth_inch": 17,
+          "depth_inch_fraction": 0
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 311440,
+            "title": "Notable Acquisitions",
+            "description": "<i>Notable Acquisitions</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 15, 1991).",
+            "opening_date": "1991-06-07T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Pace Gallery, New York, NY",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->Fax dated April 5, 1990 - CMA Curatorial Files</div>"
+          ],
+          "date": "possibly 1970s",
+          "sortorder": 1
+        },
+        {
+          "description": "Private Collection, New York",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->Note, likely April 1990, CMA curatorial file</div>"
+          ],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "Private Collection, London",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->Note, likely April 1990, CMA curatorial file</div>"
+          ],
+          "date": null,
+          "sortorder": 3
+        },
+        {
+          "description": "Entwistle and Co., Ltd., London, England, sold to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1990",
+          "sortorder": 4
+        },
+        {
+          "description": "Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1990–",
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Look closely along the sides of the nostrils, upper eyelids, and around the mouth. The impressions of twisted yarn shows how the hide was carefully held in place while it dried to precisely fit the sculpted wooden core.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "Headdresses or crest masks made of antelope skin stretched over a carved head are a distinctive art form of the Cross River region in southeastern Nigeria and western Cameroon. Worldwide, this practice is unique. This female evocation of ideal feminine beauty was most probably worn by an Ejagham woman in the context of a female society called Ekpa, which was responsible for girls' education in preparation for marriage. The headdress represents a girl who evokes ideal female beauty and is ready for marriage. The depicted hairstyle was worn during the coming-out ceremony following the girls’ seclusion.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1990.23-headdress"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Drewal, Henry John. \"Notable Acquisitions.\" <em>The Bulletin of the Cleveland Museum of Art</em> 78, no. 3 (1991): 63-147.",
+          "page_number": "Reproduced and Mentioned: p. 113",
+          "url": "https://www.jstor.org/stable/25161319"
+        },
+        {
+          "citation": "Young-Sánchez, Margaret. \"The Cleveland Museum of Art.\" <em>African Arts</em> 30, no. 1 (1997).",
+          "page_number": "pp. 66-71",
+          "url": ""
+        },
+        {
+          "citation": "Petridis, Constantijn. <em>South of the Sahara: Selected Works of African Art. </em>Cleveland: Cleveland Museum of Art, 2003.",
+          "page_number": "Reproduced: cat. 29, p. 88 - 89",
+          "url": ""
+        },
+        {
+          "citation": "Petridis, Constantine. \"A New Installation for African Art in Cleveland.\" <em>Tribal </em>3, no. 36 (Autumn/Winter 2004).",
+          "page_number": "pp. 68-73",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 32-33",
+          "url": ""
+        },
+        {
+          "citation": "Smith, Fred T., Judith Perani, Joseph L. Underwood, and Martha J. Ehrlich. The Visual Arts of Africa : Gender, Power, and Life Cycle Rituals. Second edition. New York: Oxford University Press, 2022.",
+          "page_number": "Mentioned and reproduced: p. 220, no. 7.15",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1990.23",
+      "images": {
+        "annotation": "2009 Photography, Remastered 2026",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.23/1990.23_web.jpg",
+          "width": "624",
+          "height": "900",
+          "filesize": "120959",
+          "filename": "1990.23_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.23/1990.23_print.jpg",
+          "width": "2356",
+          "height": "3400",
+          "filesize": "1148456",
+          "filename": "1990.23_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1990.23/1990.23_full.tif",
+          "width": "4096",
+          "height": "5910",
+          "filesize": "72647468",
+          "filename": "1990.23_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1990.23/1990.23_alt0_web.jpg",
+            "width": "632",
+            "height": "893",
+            "filesize": "298990"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1990.23/1990.23_alt0_print.jpg",
+            "width": "2408",
+            "height": "3400",
+            "filesize": "4056238"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1990.23/1990.23_alt0_full.tif",
+            "width": "4096",
+            "height": "5784",
+            "filesize": "71106856"
+          },
+          "date_created": "2009-10-26T18:24:52",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1990.23/1990.23_alt1_web.jpg",
+            "width": "632",
+            "height": "893",
+            "filesize": "280547"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1990.23/1990.23_alt1_print.jpg",
+            "width": "2405",
+            "height": "3400",
+            "filesize": "3879391"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1990.23/1990.23_alt1_full.tif",
+            "width": "4096",
+            "height": "5790",
+            "filesize": "71180352"
+          },
+          "date_created": "2009-10-26T18:25:57",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1990.23/1990.23_alt2_web.jpg",
+            "width": "633",
+            "height": "893",
+            "filesize": "296390"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1990.23/1990.23_alt2_print.jpg",
+            "width": "2410",
+            "height": "3400",
+            "filesize": "4015100"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1990.23/1990.23_alt2_full.tif",
+            "width": "4096",
+            "height": "5778",
+            "filesize": "71033204"
+          },
+          "date_created": "2009-10-26T18:27:14",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1990.23/1990.23_alt3_web.jpg",
+            "width": "632",
+            "height": "893",
+            "filesize": "306445"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1990.23/1990.23_alt3_print.jpg",
+            "width": "2408",
+            "height": "3400",
+            "filesize": "4200025"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1990.23/1990.23_alt3_full.tif",
+            "width": "4096",
+            "height": "5784",
+            "filesize": "71106928"
+          },
+          "date_created": "2009-10-26T18:28:47",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 155510,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1990-09-06T00:00:00",
+      "sortable_date": 1900,
+      "date_added_to_oa": null,
+      "date_text": "early 1900s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Headdress of a Maiden"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-11-04 14:49:07.629000"
+    },
+    {
+      "id": 159023,
+      "accession_number": "1995.23",
+      "share_license_status": "CC0",
+      "tombstone": "Ifá diviner's necklace (òdìgbà Ifá), 1900s. Africa, West Africa, Nigeria, Yorùbá-style maker. Cloth, glass beads, cardboard, cotton, probably wool, and wood; overall: 49.5 cm (19 1/2 in.); bag: 21.5 x 19.6 cm (8 7/16 x 7 11/16 in.). The Cleveland Museum of Art, Andrew R. and Martha Holden Jennings Fund, 1995.23",
+      "current_location": null,
+      "title": "Ifá diviner's necklace (òdìgbà Ifá)",
+      "creation_date": "1900s",
+      "creation_date_earliest": 1900,
+      "creation_date_latest": 1930,
+      "artists_tags": [],
+      "culture": [
+        "Africa, West Africa, Nigeria, Yorùbá-style maker"
+      ],
+      "technique": "Cloth, glass beads, cardboard, cotton, probably wool, and wood",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Tools and Equipment",
+      "measurements": "Overall: 49.5 cm (19 1/2 in.); Bag: 21.5 x 19.6 cm (8 7/16 x 7 11/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.495,
+          "height_inch": 19,
+          "height_inch_fraction": 0.5
+        },
+        "bag": {
+          "height": 0.215,
+          "height_inch": 8,
+          "height_inch_fraction": 0.4375,
+          "width": 0.196,
+          "width_inch": 7,
+          "width_inch_fraction": 0.6875
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Pace Primitive, New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1995",
+          "sortorder": null
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1995–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "1995.23.a",
+        "1995.23.b"
+      ],
+      "did_you_know": "Look closely at the minuscule beads used to make the complex patterns of this multicolored necklace containing two pouches with thin strands that are connected by rope-like cords. A Yoruba diviner would have communicated with the spirit world while wearing this accessory.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "The use of colorful glass beads adds luster to the divination session and underlines the high status diviners enjoy in Yorùbá society. Like kings, diviners derive their authority from the otherworld, òrún. A beaded necklace with two beaded pouches is an accessory carried by the itinerant Yorùbá diviner. Substances sewn into the miniature bags protect the diviner and ensure his power.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60748556"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1995.23-ifa-diviner-s-neckla"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Young-Sanchez, Margaret. \"The Cleveland Museum of Art.\" African Arts 30, no.1 (1997): 66-71, p. 70",
+          "page_number": "",
+          "url": ""
+        },
+        {
+          "citation": "Petridis, Constantijn. <em>South of the Sahara: selected works of African art. </em>Cleveland: Cleveland Museum of Art, 2003.",
+          "page_number": "Reproduced: cat. 23, p. 76 - 77",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1995.23",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.23/1995.23_web.jpg",
+          "width": "917",
+          "height": "893",
+          "filesize": "576481",
+          "filename": "1995.23_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.23/1995.23_print.jpg",
+          "width": "3400",
+          "height": "3312",
+          "filesize": "8192704",
+          "filename": "1995.23_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.23/1995.23_full.tif",
+          "width": "5982",
+          "height": "5828",
+          "filesize": "104610360",
+          "filename": "1995.23_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1995.23/1995.23_alt0_web.jpg",
+            "width": "867",
+            "height": "893",
+            "filesize": "548843"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1995.23/1995.23_alt0_print.jpg",
+            "width": "3301",
+            "height": "3400",
+            "filesize": "8179495"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1995.23/1995.23_alt0_full.tif",
+            "width": "5616",
+            "height": "5784",
+            "filesize": "97469924"
+          },
+          "date_created": "2009-06-09T19:40:36",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1995.23/1995.23_alt1_web.jpg",
+            "width": "840",
+            "height": "893",
+            "filesize": "525368"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1995.23/1995.23_alt1_print.jpg",
+            "width": "3199",
+            "height": "3400",
+            "filesize": "7204990"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1995.23/1995.23_alt1_full.tif",
+            "width": "4705",
+            "height": "5000",
+            "filesize": "70604924"
+          },
+          "annotation": ""
+        }
+      ],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 159023,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1995-06-07T00:00:00",
+      "sortable_date": 1900,
+      "date_added_to_oa": null,
+      "date_text": "1900s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Necklace (Odigba Ileke Ifa)",
+        "Pair of Divination Bags"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 08:13:52.429000"
+    }
+  ]
+}
