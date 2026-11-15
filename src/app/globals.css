@@ -1,0 +1,143 @@
+:root[data-mantine-color-scheme='light'] {
+  --mantine-color-body: #f7f4ef;
+  --mantine-color-text: #1c1b19;
+  --gallery-surface: #fffdf9;
+  --gallery-muted: #6b645a;
+  --gallery-border: #e3ddd2;
+  --gallery-map-land: #e6dfd3;
+  --gallery-map-hover: #d9cdbb;
+}
+
+:root[data-mantine-color-scheme='dark'] {
+  --mantine-color-body: #141312;
+  --mantine-color-text: #ece7df;
+  --gallery-surface: #1d1b19;
+  --gallery-muted: #a39b8f;
+  --gallery-border: #34302b;
+  --gallery-map-land: #2e2a26;
+  --gallery-map-hover: #423c35;
+}
+
+html,
+body {
+  background: var(--mantine-color-body);
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  color: inherit;
+}
+
+/* Masonry via CSS columns: no JS layout cost, works at every width. */
+.masonry {
+  column-gap: 1rem;
+  columns: 2 160px;
+}
+@media (min-width: 48em) {
+  .masonry { columns: 3 220px; }
+}
+@media (min-width: 75em) {
+  .masonry { columns: 4 240px; }
+}
+.masonry > * {
+  break-inside: avoid;
+  margin-bottom: 1rem;
+}
+
+.artwork-card {
+  display: block;
+  text-decoration: none;
+  background: var(--gallery-surface);
+  border: 1px solid var(--gallery-border);
+  border-radius: var(--mantine-radius-sm);
+  overflow: hidden;
+  transition: transform 160ms ease, box-shadow 160ms ease;
+}
+.artwork-card:hover,
+.artwork-card:focus-visible {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px -12px rgb(0 0 0 / 0.35);
+}
+.artwork-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: var(--gallery-map-land);
+}
+
+.muted {
+  color: var(--gallery-muted);
+}
+
+.scroll-row {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  scroll-snap-type: x proximity;
+  padding-bottom: 0.5rem;
+  -webkit-overflow-scrolling: touch;
+}
+.scroll-row > * {
+  flex: 0 0 auto;
+  scroll-snap-align: start;
+}
+
+.region-shape {
+  fill: var(--gallery-map-land);
+  stroke: var(--mantine-color-body);
+  stroke-width: 2;
+  cursor: pointer;
+  transition: fill 120ms ease;
+}
+.region-shape:hover,
+.region-shape:focus-visible {
+  fill: var(--gallery-map-hover);
+  outline: none;
+}
+.region-shape[aria-pressed='true'] {
+  fill: var(--mantine-color-oxblood-filled);
+}
+.region-label {
+  pointer-events: none;
+  font-size: 15px;
+  font-weight: 600;
+  fill: var(--mantine-color-text);
+}
+.region-shape[aria-pressed='true'] + .region-label {
+  fill: #fff;
+}
+
+.prose {
+  max-width: 72ch;
+  line-height: 1.7;
+}
+.prose h1, .prose h2, .prose h3 {
+  font-family: var(--font-serif), Georgia, serif;
+  font-weight: 500;
+}
+.prose table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+}
+.prose th, .prose td {
+  border: 1px solid var(--gallery-border);
+  padding: 0.4rem 0.6rem;
+  text-align: left;
+}
+.prose code {
+  background: var(--gallery-map-land);
+  padding: 0.1rem 0.3rem;
+  border-radius: 3px;
+}
+.prose pre {
+  overflow-x: auto;
+  background: var(--gallery-map-land);
+  padding: 0.75rem;
+  border-radius: 4px;
+}
