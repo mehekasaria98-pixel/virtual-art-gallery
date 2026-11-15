@@ -13,4 +13,4 @@ For developers working on Atlas of Art.
 | [testing.md](testing.md) | Test commands, coverage, manual checklist |
 | [decisions.md](decisions.md) | Architecture decision records |
 
-Setup and deployment are covered in [../setup/](../setup/).
+Setup and deployment are covered in [../setup/](../setup/). New to software development? Start with [../learn/](../learn/README.md).
